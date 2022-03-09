@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">challenge_w1</string>
+    <string name="title_1">Browse your menu and order directly</string>
+    <string name="title_2">Even to space with us! Together</string>
+    <string name="title_3">Pickup delivery at your door</string>
+    <string name="desc_1">Our app can send you everywhere, even space. For only $2.99 per month</string>
+    <string name="desc_2">Our app can send you everywhere, even space. For only $2.99 per month</string>
+    <string name="desc_3">Our app can send you everywhere, even space. For only $2.99 per month</string>
+</resources>
