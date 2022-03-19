@@ -34,9 +34,9 @@ class SlideViewPaperAdapter(context: Context) : PagerAdapter() {
         val obTitle = view.findViewById<TextView>(R.id.obTitle)
         val desc = view.findViewById<TextView>(R.id.desc)
 
-        val button =view.findViewById<FloatingActionButton>(R.id.buttonNext)
+        val button =view.findViewById<FloatingActionButton>(R.id.button_next)
         button.setOnClickListener{
-           var intent:Intent = Intent(context,MainActivity::class.java)
+           var intent:Intent = Intent(context,SignupActivity::class.java)
             intent.flags = Intent.FLAG_ACTIVITY_CLEAR_TASK
             context.startActivity(intent)
         }
