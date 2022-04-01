@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TLMH/HKII-2022/Android/challenges/challenge_android_w3/app/src/main/res/drawable/facebook_btn.xml" value="0.2265" />
+        <entry key="..\:/TLMH/HKII-2022/Android/challenges/challenge_android_w3/app/src/main/res/drawable/google_btn.xml" value="0.2265" />
+        <entry key="..\:/TLMH/HKII-2022/Android/challenges/challenge_android_w3/app/src/main/res/drawable/gray_border.xml" value="0.2265" />
+        <entry key="..\:/TLMH/HKII-2022/Android/challenges/challenge_android_w3/app/src/main/res/drawable/ic_bottom_line.xml" value="0.2265" />
+        <entry key="..\:/TLMH/HKII-2022/Android/challenges/challenge_android_w3/app/src/main/res/drawable/rounded_button.xml" value="0.2265" />
+        <entry key="..\:/TLMH/HKII-2022/Android/challenges/challenge_android_w3/app/src/main/res/drawable/white_corner.xml" value="0.2265" />
+        <entry key="..\:/TLMH/HKII-2022/Android/challenges/challenge_android_w3/app/src/main/res/drawable/yellow_corner.xml" value="0.2265" />
+        <entry key="..\:/TLMH/HKII-2022/Android/challenges/challenge_android_w3/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/TLMH/HKII-2022/Android/challenges/challenge_android_w3/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/TLMH/HKII-2022/Android/challenges/challenge_android_w3/app/src/main/res/layout/dialog.xml" value="0.22826086956521738" />
+        <entry key="..\:/TLMH/HKII-2022/Android/challenges/challenge_android_w3/app/src/main/res/layout/login_screen.xml" value="0.264" />
+        <entry key="..\:/TLMH/HKII-2022/Android/challenges/challenge_android_w3/app/src/main/res/layout/profile_screen.xml" value="0.22826086956521738" />
+        <entry key="..\:/TLMH/HKII-2022/Android/challenges/challenge_android_w3/app/src/main/res/layout/signup_screen.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
