@@ -3,17 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/TLMH/HKII-2022/Android/challenges/challenge_w1/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.2265" />
-        <entry key="..\:/TLMH/HKII-2022/Android/challenges/challenge_w1/app/src/main/res/drawable/ic_baseline_arrow_forward_24.xml" value="0.198" />
-        <entry key="..\:/TLMH/HKII-2022/Android/challenges/challenge_w1/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.2265" />
-        <entry key="..\:/TLMH/HKII-2022/Android/challenges/challenge_w1/app/src/main/res/drawable/ic_baseline_keyboard_arrow_left_24.xml" value="0.2265" />
-        <entry key="..\:/TLMH/HKII-2022/Android/challenges/challenge_w1/app/src/main/res/layout/activity_main.xml" value="0.17708333333333334" />
-        <entry key="..\:/TLMH/HKII-2022/Android/challenges/challenge_w1/app/src/main/res/layout/activity_slide.xml" value="0.17708333333333334" />
-        <entry key="..\:/TLMH/HKII-2022/Android/challenges/challenge_w1/app/src/main/res/layout/login_screen.xml" value="0.4" />
-        <entry key="..\:/TLMH/HKII-2022/Android/challenges/challenge_w1/app/src/main/res/layout/profile_screen.xml" value="0.22826086956521738" />
-        <entry key="..\:/TLMH/HKII-2022/Android/challenges/challenge_w1/app/src/main/res/layout/signup_screen.xml" value="0.264" />
-        <entry key="..\:/TLMH/HKII-2022/Android/challenges/challenge_w1/app/src/main/res/layout/slide_screen.xml" value="0.264" />
-        <entry key="..\:/TLMH/HKII-2022/Android/challenges/challenge_w1/app/src/main/res/layout/verification_code.xml" value="0.264" />
+        <entry key="..\:/Users/tsuki/AndroidStudioProjects/w2/app/src/main/res/drawable-v24/ic_baseline_arrow_forward_ios_24.xml" value="0.2265" />
+        <entry key="..\:/Users/tsuki/AndroidStudioProjects/w2/app/src/main/res/drawable-v24/ic_baseline_keyboard_arrow_left_24.xml" value="0.2265" />
+        <entry key="..\:/Users/tsuki/AndroidStudioProjects/w2/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/tsuki/AndroidStudioProjects/w2/app/src/main/res/layout/activity_onboarding.xml" value="0.2" />
+        <entry key="..\:/Users/tsuki/AndroidStudioProjects/w2/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Users/tsuki/AndroidStudioProjects/w2/app/src/main/res/layout/activity_slide.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/tsuki/AndroidStudioProjects/w2/app/src/main/res/layout/dialog_edit.xml" value="0.264" />
+        <entry key="..\:/Users/tsuki/AndroidStudioProjects/w2/app/src/main/res/layout/slide_screen.xml" value="0.16666666666666666" />
       </map>
     </option>
   </component>
